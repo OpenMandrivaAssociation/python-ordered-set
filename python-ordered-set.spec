@@ -3,9 +3,9 @@
 
 Name:           python-%{short_name}
 Version:        2.0.2
-Release:        1
+Release:        2
 Summary:        Custom MutableSet that remembers its order
-
+Group:          Development/Python
 License:        MIT
 URL:            https://github.com/LuminosoInsight/ordered-set
 Source0:        https://pypi.python.org/packages/source/o/%{short_name}/%{short_name}-%{version}.tar.gz
