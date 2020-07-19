@@ -2,13 +2,13 @@
 %global dir_name ordered_set
 
 Name:           python-%{short_name}
-Version:	4.0.1
+Version:	4.0.2
 Release:	1
 Summary:        Custom MutableSet that remembers its order
 Group:          Development/Python
 License:        MIT
 URL:            https://github.com/LuminosoInsight/ordered-set
-Source0:	https://files.pythonhosted.org/packages/89/5d/60db38c980730fc91a0a9cf4c2b932037eecfbd6926aa2ebf450247c0096/ordered-set-4.0.1.tar.gz
+Source0:	https://files.pythonhosted.org/packages/f5/ab/8252360bfe965bba31ec05112b3067bd129ce4800d89e0b85613bc6044f6/ordered-set-4.0.2.tar.gz
 
 BuildRequires:  python-devel
 BuildRequires:  python-setuptools
