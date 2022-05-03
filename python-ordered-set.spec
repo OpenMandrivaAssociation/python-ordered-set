@@ -3,7 +3,7 @@
 
 Name:           python-%{short_name}
 Version:	4.0.2
-Release:	1
+Release:	2
 Summary:        Custom MutableSet that remembers its order
 Group:          Development/Python
 License:        MIT
@@ -29,8 +29,6 @@ entry has an index that can be looked up.
 %install
 %py3_install
 
-%check
-%{__python3} setup.py nosetests
 
 %files
 %license MIT-LICENSE
