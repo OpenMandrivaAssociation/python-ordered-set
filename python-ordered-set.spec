@@ -34,4 +34,3 @@ entry has an index that can be looked up.
 %license MIT-LICENSE
 %{python3_sitelib}/%{dir_name}-*.egg-info/
 %{python3_sitelib}/%{dir_name}.py
-%{python3_sitelib}/__pycache__/%{dir_name}.*
