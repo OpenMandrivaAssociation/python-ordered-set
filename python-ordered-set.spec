@@ -3,7 +3,7 @@
 
 Name:           python-%{short_name}
 Version:	4.0.2
-Release:	3
+Release:	4
 Summary:        Custom MutableSet that remembers its order
 Group:          Development/Python
 License:        MIT
