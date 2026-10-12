@@ -4,7 +4,7 @@
 Name:		python-ordered-set
 Summary:	Custom MutableSet that remembers its order
 Version:	4.1.0
-Release:	1
+Release:	2
 Group:		Development/Python
 License:	MIT
 URL:		https://github.com/rspeer/ordered-set
